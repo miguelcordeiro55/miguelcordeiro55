@@ -1,4 +1,26 @@
-Olá! ================================================================= ================================================================= Estudante de Programação | Futuro Engenheiro de Software 🚀 ----------------------------------------------------------- Sou um estudante de programação em constante evolução, com cerca de 1 ano de estudos na área de desenvolvimento de software. Comecei minha jornada aprendendo HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento front-end. Atualmente, estou focado em expandir meus conhecimentos para o desenvolvimento back-end, com o objetivo de me tornar um Engenheiro de Software completo no futuro. Tenho grande interesse em aprender novas tecnologias, boas práticas de código e desenvolvimento de aplicações eficientes. Estou sempre buscando evoluir, praticar e contribuir com projetos que me ajudem a crescer como desenvolvido. * 🌍 Moro em Localização: São Paulo, Brasil * ✉️ Você pode entrar em contato comigo em [miguelcordeiro.1811@gmail.com](mailto:miguelcordeiro.1811@gmail.com) * 🧠 Atualmente estou aprendendo, estou focado em expandir meus conhecimentos, aprendendo desenvolvimento back-end e inglês, com o objetivo de me tornar um Engenheiro de Software completo. * 👥 Procuro colaborar em Estou aberto a colaborar em projetos e oportunidades que contribuam para meu crescimento como desenvolvedor. * 💬 Pergunte-me sobre ## 📖 Atualmente estudando - Desenvolvimento Back-end - Inglês - Boas práticas de programação/lo
+Olá, meu nome é Miguel Cordeiro 👋
+
+Estudante de Programação | Futuro Engenheiro de Software
+Sou um estudante de programação em constante evolução, com aproximadamente 1 ano de estudos na área de desenvolvimento de software.
+
+Iniciei minha jornada aprendendo HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento Front-end. Atualmente, estou focado em expandir meus conhecimentos para o Back-end, com o objetivo de me tornar um Engenheiro de Software completo.
+
+Tenho grande interesse em aprender novas tecnologias, aplicar boas práticas de código e desenvolver aplicações eficientes e bem estruturadas. Estou sempre buscando evoluir, praticar e contribuir com projetos que me ajudem a crescer como desenvolvedor.
+
+
+Você pode entrar em contato comigo através do e-mail abaixo:
+✉️ miguelcordeiro.1811@gmail.com
+
+
+🌍Localização: São Paulo, Brasil
+
+📖 Atualmente estudando:
+.Desenvolvimento Back-end
+.Inglês
+.Boas práticas de programação
+
+👥 Colaboração
+Estou aberto a colaborar em projetos e oportunidades que contribuam para meu crescimento como desenvolvedor.
 
 <p align="left">
 
