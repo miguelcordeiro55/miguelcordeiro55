@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! ================================================================= ================================================================= Estudante de Programação | Futuro Engenheiro de Software 🚀 ----------------------------------------------------------- Sou um estudante de programação em constante evolução, com cerca de 1 ano de estudos na área de desenvolvimento de software. Comecei minha jornada aprendendo HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento front-end. Atualmente, estou focado em expandir meus conhecimentos para o desenvolvimento back-end, com o objetivo de me tornar um Engenheiro de Software completo no futuro. Tenho grande interesse em aprender novas tecnologias, boas práticas de código e desenvolvimento de aplicações eficientes. Estou sempre buscando evoluir, praticar e contribuir com projetos que me ajudem a crescer como desenvolvido. * 🌍 Moro em Localização: São Paulo, Brasil * ✉️ Você pode entrar em contato comigo em [miguelcordeiro.1811@gmail.com](mailto:miguelcordeiro.1811@gmail.com) * 🧠 Atualmente estou aprendendo, estou focado em expandir meus conhecimentos, aprendendo desenvolvimento back-end e inglês, com o objetivo de me tornar um Engenheiro de Software completo. * 👥 Procuro colaborar em Estou aberto a colaborar em projetos e oportunidades que contribuam para meu crescimento como desenvolvedor. * 💬 Pergunte-me sobre ## 📖 Atualmente estudando - Desenvolvimento Back-end - Inglês - Boas práticas de programação/lo
 
-<!--
-**miguelcordeiro55/miguelcordeiro55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
 
-Here are some ideas to get you started:
+</p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Redes sociais
+
+<p align="left"> </p> <a href="https://www.github.com/miguelcordeiro55" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" título="GitHub" /></picture></a>
+### Insígnias
+
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/miguelcordeiro55"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcordeiro55&stroke=000000&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
