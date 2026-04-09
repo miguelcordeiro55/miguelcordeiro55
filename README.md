@@ -32,7 +32,7 @@ Estou aberto a colaborar em projetos e oportunidades que contribuam para meu cre
 ### Redes sociais
 
 <p align="left"> </p> <a href="https://www.github.com/miguelcordeiro55" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" título="GitHub" /></picture></a>
-### Insígnias
+
 
 <b>Minhas estatísticas do GitHub</b>
 
