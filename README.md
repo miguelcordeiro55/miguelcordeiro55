@@ -1,40 +1,105 @@
-Olá, meu nome é Miguel Cordeiro 👋
+<div align="center">
 
-Estudante de Programação | Futuro Engenheiro de Software
-Sou um estudante de programação em constante evolução, com aproximadamente 1 ano de estudos na área de desenvolvimento de software.
+# 👨‍💻 Miguel Cordeiro
 
-Iniciei minha jornada aprendendo HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento Front-end. Atualmente, estou focado em expandir meus conhecimentos para o Back-end, com o objetivo de me tornar um Engenheiro de Software completo.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+Programa%C3%A7%C3%A3o;Futuro+Engenheiro+de+Software;Front-end+%E2%86%92+Back-end;Sempre+aprendendo+novas+tecnologias" />
 
-Tenho grande interesse em aprender novas tecnologias, aplicar boas práticas de código e desenvolver aplicações eficientes e bem estruturadas. Estou sempre buscando evoluir, praticar e contribuir com projetos que me ajudem a crescer como desenvolvedor.
+</div>
+
+---
+
+<div align="center">
+
+## 📖 Sobre mim
+
+</div>
+
+Sou um estudante de programação em constante evolução, com aproximadamente *1 ano de estudos* na área de desenvolvimento de software.
+
+Iniciei minha jornada aprendendo *HTML, CSS e JavaScript*, construindo uma base sólida no desenvolvimento Front-end.
+
+Atualmente, estou focado em expandir meus conhecimentos para o *Back-end, com o objetivo de me tornar um **Engenheiro de Software completo*.
+
+Tenho grande interesse em aprender novas tecnologias, aplicar boas práticas de código e desenvolver aplicações eficientes e bem estruturadas.
+
+Estou sempre buscando evoluir, praticar e contribuir com projetos que me ajudem a crescer como desenvolvedor.
+
+---
+
+<div align="center">
+
+## 🌎 Informações
+
+</div>
+
+📍 *Localização:* São Paulo, Brasil
+
+📚 *Atualmente estudando*
+
+- Desenvolvimento Back-end
+- Inglês
+- Boas práticas de programação
+
+🤝 *Colaboração*
+
+Aberto a colaborar em projetos e oportunidades que contribuam para meu crescimento como desenvolvedor.
+
+📧 *Contato*
+
+text
+miguelcordeiro.1811@gmail.com
 
 
-Você pode entrar em contato comigo através do e-mail abaixo:
-✉️ miguelcordeiro.1811@gmail.com
+---
 
+<div align="center">
 
-🌍Localização: São Paulo, Brasil
+## 🚀 Tecnologias
 
-📖 Atualmente estudando:
-.Desenvolvimento Back-end
-.Inglês
-.Boas práticas de programação
+</div>
 
-👥 Colaboração
-Estou aberto a colaborar em projetos e oportunidades que contribuam para meu crescimento como desenvolvedor.
+<div align="center">
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,mysql,postgres,vscode,git,github" />
 
-</p>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a> <a href="https://www.php.net/" target="_blank" <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36 " /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.postgresql.<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</div>
 
-### Redes sociais
+---
 
-<p align="left"> </p> <a href="https://www.github.com/miguelcordeiro55" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" título="GitHub" /></picture></a>
+<div align="center">
 
-<b>Minhas estatísticas do GitHub</b>
+## 📊 Estatísticas
 
-<a href="http://www.github.com/miguelcordeiro55"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcordeiro55&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguelcordeiro55&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<b>Principais repositórios</b>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcordeiro55&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div width="100%" align="center"> </div><br /><br /><br /><br /><br /><br /><br />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcordeiro55&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Redes Sociais
+
+<a href="https://github.com/miguelcordeiro55">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Evoluindo um commit de cada vez."
+
+</div>
